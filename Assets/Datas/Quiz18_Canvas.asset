@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 805f8b1e130302245948dd7d16d5b172, type: 3}
+  m_Name: Quiz18_Canvas
+  m_EditorClassIdentifier: 
+  _id: 17
+  _sentence: "\u65E5\u672C\u3067\u4E00\u756A\u30AD\u30E3\u30F3\u30D1\u30B9\u304C\u5E83\u3044\u5927\u5B66\u306F\u5317\u6D77\u9053\u5927\u5B66\u3067\u3042\u308B\u3002\r\n\u3007\u304B\xD7\u304B"
+  _answer: 0
+  _explainSentence: "\u7FD2\u3084\u7814\u7A76\u306E\u305F\u3081\u306E\u65BD\u8A2D\u3084\u5E83\u5927\u306A\u68EE\u6797\u306A\u3069\u3001\n\u30AD\u30E3\u30F3\u30D1\u30B9\u4EE5\u5916\u306E\u65BD\u8A2D\u306E\u9762\u7A4D\u304C\u3068\u3093\u3067\u3082\u306A\u3044\u5E83\u3044\u305F\u3081\u3067\u3059\u3002\n\u65E5\u672C\u306E\u56FD\u571F\u306E\u7D04570\u5206\u306E1\u306E\u9762\u7A4D\u304C\u5317\u6D77\u9053\u5927\u5B66\u3067\u3059\u3002"

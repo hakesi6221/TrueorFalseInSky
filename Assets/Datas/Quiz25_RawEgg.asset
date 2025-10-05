@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 805f8b1e130302245948dd7d16d5b172, type: 3}
+  m_Name: Quiz25_RawEgg
+  m_EditorClassIdentifier: 
+  _id: 24
+  _sentence: "\u65E5\u672C\u3067\u306F\u751F\u5375\u3092\u98DF\u3079\u3066\u3044\u308B\u304C\u3001\u6D77\u5916\u3067\u306F\u751F\u5375\u3092\u98DF\u3079\u306A\u3044\u3002\r\n\u3007\u304B\xD7\u304B"
+  _answer: 0
+  _explainSentence: "\u5916\u56FD\u306E\u5375\u306F\u672C\u6765\u52A0\u71B1\u8ABF\u7406\u3092\u524D\u63D0\u3068\u3055\u308C\u3066\u304A\u308A\u3001\n\u65E5\u672C\u306E\u3088\u3046\u306A\u5FB9\u5E95\u3057\u305F\u7BA1\u7406\u3068\u6D88\u6BD2\u3092\u884C\u3063\u3066\u3044\u306A\u3044\u305F\u3081\u3001\n\u6D77\u5916\u3067\u306F\u751F\u5375\u3092\u98DF\u3079\u307E\u305B\u3093\u3002"
